@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = erikaa.chang@gmail.com
+	name = Erika Azevedo
